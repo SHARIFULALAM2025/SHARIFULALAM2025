@@ -13,15 +13,7 @@ I'm a passionate **[Fornt-end developer ]** with experience in **[technologies y
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
-
-![HTML](PROJECT URL)
-![CSS](PROJECT URL)
-![TailwindCSS ]()
-![bootstrap ]()
-![JavaScript](PROJECT URL)
-![React](PROJECT URL)
-![Node.js](PROJECT URL)
-![Mongo DB]
+🔹 Front-End Developer | React.js | JavaScript | HTML, CSS, Tailwind CSS | Next js| Building Responsive & User-Friendly Web Interfaces | Open to Work
 
 
 ## Featured Projects 💻
