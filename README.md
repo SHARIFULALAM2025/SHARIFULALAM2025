@@ -16,9 +16,11 @@ I'm a passionate **[Fornt-end developer ]** with experience in **[technologies y
 🔹 Front-End Developer | React.js | JavaScript | HTML, CSS, Tailwind CSS | Next js| Building Responsive & User-Friendly Web Interfaces | Open to Work
 
 
-## Featured Projects 💻
+## React Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Project 1 Title]
+### project links
+**[https://rococo-biscotti-2e9670.netlify.app/]**
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
