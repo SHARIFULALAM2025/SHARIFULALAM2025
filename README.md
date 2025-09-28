@@ -1,6 +1,6 @@
 # Hi there, I'm [SHARIFUL ALAM ]! 👋
 
-![Banner Image]()
+![Banner Image](SHARIFUL ALAM.jpg)
 
 ## About Me 🚀
 
