@@ -17,13 +17,13 @@ I'm a passionate **[Fornt-end developer ]** with experience in **[technologies y
 
 
 ## React Projects 💻
-
-### [Project 1 Title]
+### project :1
+### project Title
+### [“Smart Ticket Management System: Real-Time Task Tracking & Resolution”]
 ### project links
 **[https://rococo-biscotti-2e9670.netlify.app/]**
-
 ![Project 1 Screenshot](project_1_screenshot_url)
-
+### project :2
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
 ### [Project 2 Title](project_2_link)
