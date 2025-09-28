@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Fornt-end developer ]** with experience in **[technologies you're proficient ]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Fornt-end developer ]** with experience in ** [HTML, CSS ,TAILWIND CSS, JAVASCRIPT,REACT,NEXT-JS] **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🌱 Currently learning: **[next-js]**
 - 🔭 Working on: **[https://www.programming-hero.com/]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌍 Languages: **[I can speak fluent bangli and English ]**
+- 📫 How to reach me: **[sharifullinkdin2025@gmail.com ]**
+- ⚡ Fun fact: **[]**
 
 ## My Skills 🧠
 🔹 Front-End Developer | React.js | JavaScript | HTML, CSS, Tailwind CSS | Next js| Building Responsive & User-Friendly Web Interfaces | Open to Work
