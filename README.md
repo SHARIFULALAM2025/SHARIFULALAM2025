@@ -1,6 +1,6 @@
 # Hi there, I'm [SHARIFUL ALAM ]! 👋
 
-![Banner Image](SHARIFUL ALAM.jpg)
+![Banner Image](https://github.com/SHARIFULALAM2025/SHARIFULALAM2025/commit/fd902527fb73ed6210928b21a1625d8297e7d330#commitcomment-166736402)
 
 ## About Me 🚀
 
