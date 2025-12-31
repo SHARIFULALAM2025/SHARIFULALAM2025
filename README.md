@@ -43,21 +43,6 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 ### project links:https://sharifulalam2025.github.io/payoo-mobile-app/app.html
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Shariful's Stats" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFULALAM2025&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFULALAM2025&theme=radical" alt="GitHub Streak" />
-</p> 
-
-
-
-
-------------
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
 
@@ -71,8 +56,8 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]**()
 - **[LinkedIn]**(www.linkedin.com/in/shriful-alam-64a8b736b)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Twitter]**()
 
 
