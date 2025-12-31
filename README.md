@@ -21,8 +21,9 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 - 🌱 Currently learning: **[next-js]**
 - 🔭 Working on: **[https://www.programming-hero.com/]**
 - 🌍 Languages: **[I can speak fluent bangli and English ]**
-- 📫 How to reach me: **[sharifullinkdin2025@gmail.com ]**
-
+- 📧 Email: [sharifullinkdin2025@gmail.com](mailto:sharifullinkdin2025@gmail.com)
+- 📱 Contact: **01829197321**
+- 💬 Ask me about anything related to Web Development!
 
 ## My Skills 🧠
 🔹 Front-End Developer | React.js | JavaScript | HTML, CSS, Tailwind CSS | Next js| Building Responsive & User-Friendly Web Interfaces | Open to Work
