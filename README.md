@@ -54,9 +54,9 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 
 ------------
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharifulAlam2025&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifulAlam2025&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFULALAM2025&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
