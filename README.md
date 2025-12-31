@@ -24,23 +24,20 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 - 📧 Email: [sharifullinkdin2025@gmail.com](mailto:sharifullinkdin2025@gmail.com)
 - 📱 Contact: **01829197321**
 - 💬 Ask me about anything related to Web Development!
-
 ## 🧠 My Skills
 
 ### 🎨 Front-End Development
-- **Core:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks:** React.js, Next.js
-- **Styling:** Tailwind CSS, Bootstrap, CSS Modules
-- **UI/UX:** Building Responsive & User-Friendly Web Interfaces
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Back-End & Database
-- **Server:** Node.js, Express.js
-- **Database:** MongoDB
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools & Others
-- **Version Control:** Git & GitHub
-- **Deployment:** Vercel, Netlify, Firebase
-- **Status:** 🟢 Open to Work / Freelance Projects
+### 🛠️ Tools & Deployment
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+---
+**🚀 Status:** 🟢 Open to Work / Freelance Projects  
+**✨ Focus:** Building Responsive & User-Friendly Web Interfaces
 
 ## React Projects 💻
 ### project :1
