@@ -38,11 +38,13 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 **🚀 Status:** 🟢 Open to Work / Freelance Projects  
 **✨ Focus:** Building Responsive & User-Friendly Web Interfaces
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&theme=radical&count_private=true" width="48%" />
 </p>
+
 <p align="center">
-  <img src="github-readme-activity-graph.vercel.app/api/top-langs/?username=SHARIFULALAM2025&layout=compact&theme=radical&count_private=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFULALAM2025&layout=compact&theme=radical" width="48%" />
 </p>
+
 
 
 
