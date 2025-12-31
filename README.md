@@ -50,12 +50,7 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
   <img src="https://streak-stats.demolab.com/?user=SHARIFULALAM2025&theme=radical" alt="GitHub Streak" width="97%" />
 </p>
 
-//
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&theme=radical)
 
-## 🔥 Contribution Streak
-![Streak](https://streak-stats.demolab.com?user=SHARIFULALAM2025&theme=radical)
 
 ## 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHARIFULALAM2025&theme=react-dark)
