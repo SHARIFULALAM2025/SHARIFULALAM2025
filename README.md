@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Fornt-end developer ]** with experience in ** [HTML, CSS ,TAILWIND CSS, JAVASCRIPT,REACT,NEXT-JS] **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Full-stack Web Developer with experience in ** [HTML, CSS ,TAILWIND CSS, JAVASCRIPT,REACT,NEXT-JS,MONGODB] **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[next-js]**
 - 🔭 Working on: **[https://www.programming-hero.com/]**
