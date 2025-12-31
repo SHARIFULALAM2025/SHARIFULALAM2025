@@ -40,7 +40,8 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 **✨ Focus:** Building Responsive & User-Friendly Web Interfaces
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&theme=radical" alt="GitHub Stats" width="97%" />
-
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFULALAM2025&layout=compact&theme=radical" alt="Top Languages" width="97%" />
 </p>
 
