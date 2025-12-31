@@ -4,13 +4,21 @@
 
 ## About Me 🚀
 
-I'm a passionate Full-stack Web Developer with experience in ** [HTML, CSS ,TAILWIND CSS, JAVASCRIPT,REACT,NEXT-JS,MONGODB] **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Full-stack Web Developer with experience in ** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+
 
 - 🌱 Currently learning: **[next-js]**
 - 🔭 Working on: **[https://www.programming-hero.com/]**
 - 🌍 Languages: **[I can speak fluent bangli and English ]**
 - 📫 How to reach me: **[sharifullinkdin2025@gmail.com ]**
-- ⚡ Fun fact: **[]**
+
 
 ## My Skills 🧠
 🔹 Front-End Developer | React.js | JavaScript | HTML, CSS, Tailwind CSS | Next js| Building Responsive & User-Friendly Web Interfaces | Open to Work
