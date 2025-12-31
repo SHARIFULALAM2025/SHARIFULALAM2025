@@ -25,18 +25,22 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 - 📱 Contact: **01829197321**
 - 💬 Ask me about anything related to Web Development!
 
-## My Skills 🧠
-🔹 Front-End Developer | React.js | JavaScript | HTML, CSS, Tailwind CSS | Next js| Building Responsive & User-Friendly Web Interfaces | Open to Work
-p
-### Javascript Project :1
-### project title:[green-earth]
-### project link:https://sharifulalam2025.github.io/green_earth/
-### javascript project :2
-### project title : Emergency Hotline
-### project link: https://sharifulalam2025.github.io/Emergency-Hotline/
-### javascript project:3  
-### project title:payoo mobile app 
-### project links:https://sharifulalam2025.github.io/payoo-mobile-app/app.html
+## 🧠 My Skills
+
+### 🎨 Front-End Development
+- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks:** React.js, Next.js
+- **Styling:** Tailwind CSS, Bootstrap, CSS Modules
+- **UI/UX:** Building Responsive & User-Friendly Web Interfaces
+
+### ⚙️ Back-End & Database
+- **Server:** Node.js, Express.js
+- **Database:** MongoDB
+
+### 🛠️ Tools & Others
+- **Version Control:** Git & GitHub
+- **Deployment:** Vercel, Netlify, Firebase
+- **Status:** 🟢 Open to Work / Freelance Projects
 
 ## React Projects 💻
 ### project :1
@@ -49,6 +53,16 @@ p
 ### project link: https://curious-crisp-f3906a.netlify.app/
 ### project :
 ### project link: https://unrivaled-cranachan-2906b0.netlify.app/
+
+### Javascript Project :1
+### project title:[green-earth]
+### project link:https://sharifulalam2025.github.io/green_earth/
+### javascript project :2
+### project title : Emergency Hotline
+### project link: https://sharifulalam2025.github.io/Emergency-Hotline/
+### javascript project:3  
+### project title:payoo mobile app 
+### project links:https://sharifulalam2025.github.io/payoo-mobile-app/app.html
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SHARIFULALAM2025)](https://github.com/ryo-ma/github-profile-trophy)
