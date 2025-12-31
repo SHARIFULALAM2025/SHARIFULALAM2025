@@ -49,7 +49,7 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SHARIFULALAM2025/contributions?format=svg&private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SharifulAlam2025/contributions?format=svg&private=true)  
 
 
 ------------
