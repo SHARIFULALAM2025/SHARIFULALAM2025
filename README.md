@@ -51,7 +51,7 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SHARIFULALAM2025/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SHARIFULALAM2025)  
+
 
 ------------
 <p align="center">
