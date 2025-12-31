@@ -39,26 +39,7 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 **🚀 Status:** 🟢 Open to Work / Freelance Projects  
 **✨ Focus:** Building Responsive & User-Friendly Web Interfaces
 
-## React Projects 💻
-### project :1
-### project Title
-### [“Smart Ticket Management System: Real-Time Task Tracking & Resolution”]
-### project links
-**[https://rococo-biscotti-2e9670.netlify.app/]**
-![Project 1 Screenshot](project_1_screenshot_url)
-### project :2
-### project link: https://curious-crisp-f3906a.netlify.app/
-### project :
-### project link: https://unrivaled-cranachan-2906b0.netlify.app/
 
-### Javascript Project :1
-### project title:[green-earth]
-### project link:https://sharifulalam2025.github.io/green_earth/
-### javascript project :2
-### project title : Emergency Hotline
-### project link: https://sharifulalam2025.github.io/Emergency-Hotline/
-### javascript project:3  
-### project title:payoo mobile app 
 ### project links:https://sharifulalam2025.github.io/payoo-mobile-app/app.html
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
