@@ -59,8 +59,8 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 
 ## Get in Touch 📬
 
-- **[Personal Website]**()
+- **[Personal Website]**(https://courageous-longma-cd362d.netlify.app/)
 - **[LinkedIn]**(https://www.linkedin.com/in/sharifulalam-dev)
-- **[Twitter]**()
+- **[Email]**(sharifullinkdin2025@gmail.com)
 
 
