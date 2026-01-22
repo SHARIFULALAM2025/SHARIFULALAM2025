@@ -59,8 +59,8 @@ I'm a passionate Full-stack Web Developer with experience in building modern web
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**()
-- **[LinkedIn]**(www.linkedin.com/in/shriful-alam-64a8b736b)
+- **[Personal Website]**()
+- **[LinkedIn]**(https://www.linkedin.com/in/sharifulalam-dev)
 - **[Twitter]**()
 
 
