@@ -22,18 +22,6 @@ I am a Computer Science & Engineering graduate with a strong passion for full-st
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
-**🚀 Status:** 🟢 Open to Work / Freelance Projects  
-**✨ Focus:** Building Responsive & User-Friendly Web Interfaces
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFULALAM2025&show_icons=true&theme=radical&count_private=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFULALAM2025&layout=compact&theme=radical" width="48%" />
-</p>
-
-
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SHARIFULALAM2025&theme=radical" alt="GitHub Streak" width="97%" />
