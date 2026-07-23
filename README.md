@@ -3,25 +3,12 @@
 ![Image](https://github.com/SHARIFULALAM2025/SHARIFULALAM2025/blob/f67f7e8b7aab852b661a6ca4db7b41993df145b2/SHARIFUL%20ALAM%20(1).png)
 
 ## About Me 🚀
-
-I'm a passionate Full-stack Web Developer with experience in building modern web applications. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-### 🛠️ My Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+I am a Computer Science & Engineering graduate with a strong passion for full-stack web development. I am eager to leverage my problem-solving skills and hands-on project experience to build scalable, user-centric applications and contribute meaningfully to a dynamic and innovative development team.
 - 🌱 Currently learning: **[next-js]**
 - 🔭 Working on: **[https://www.programming-hero.com/]**
 - 🌍 Languages: **[I can speak fluent bangli and English ]**
 - 📧 Email: [sharifullinkdin2025@gmail.com](mailto:sharifullinkdin2025@gmail.com)
-- 📱 Contact: **01829197321**
+- 📱 Contact: **+880 1829-197321**
 - 💬 Ask me about anything related to Web Development!
 ## 🧠 My Skills
 
