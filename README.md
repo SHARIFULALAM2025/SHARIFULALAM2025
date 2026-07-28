@@ -33,9 +33,9 @@ I am a Computer Science & Engineering graduate with a strong passion for full-st
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHARIFULALAM2025&theme=react-dark)
 
 ## Get in Touch 📬
-- **[Email]**(sharifullinkdin2025@gmail.com)
-- **[Personal Website]**(https://sharifflio.vercel.app)
-- **[LinkedIn]**(https://www.linkedin.com/in/sharifulalam-dev)
+- **Email]**sharifullinkdin2025@gmail.com
+- **Portfolio**https://sharifflio.vercel.app
+- **LinkedIn**https://www.linkedin.com/in/sharifulalam-dev
 
 
 
