@@ -1,6 +1,6 @@
 # Hi there, I'm [SHARIFUL ALAM ]! 👋
 
-<div className ="text-bold">
+<div className ="text-bold text-red-500">
   <h1>hello shariful alam</h1>
 </div>
 
