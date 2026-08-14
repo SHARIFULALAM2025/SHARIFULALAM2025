@@ -1,5 +1,5 @@
 ## About Me 🚀
-Hi! I am SHARIFUL ALAM . I am a Computer Science & Engineering graduate with a strong passion for full-stack web development. I am eager to leverage my problem-solving skills and hands-on project experience to build scalable, user-centric applications and contribute meaningfully to a dynamic and innovative development team.
+Hi ! I am SHARIFUL ALAM.I am a Computer Science & Engineering graduate with a strong passion for full-stack web development. I am eager to leverage my problem-solving skills and hands-on project experience to build scalable, user-centric applications and contribute meaningfully to a dynamic and innovative development team.
 
 - [x] Languages: `I can speak fluent   Bangli and English`
 - [x] Email:`sharifullinkdin2025@gmail.com`
