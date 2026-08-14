@@ -1,4 +1,4 @@
-# Hi there, I'm [SHARIFUL ALAM ]! 👋
+# HELLO! I am SHARIFUL ALAM 👋
 
 
 
