@@ -1,6 +1,6 @@
 ## About Me 🚀
 Hi! I am SHARIFUL ALAM . I am a Computer Science & Engineering graduate with a strong passion for full-stack web development. I am eager to leverage my problem-solving skills and hands-on project experience to build scalable, user-centric applications and contribute meaningfully to a dynamic and innovative development team.
-- [x] [![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharifflio.vercel.app)
+- [x] [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://sharifflio.vercel.app)
 - [x] LinkedIn:`https://www.linkedin.com/in/sharifulalam-dev`
 - [x] Resume: `https://drive.google.com/file/d/1YR1Jl36y7YPgFxkZifibWVu30fcgA8Rm/view?usp=sharing`
 - [x] Currently learning: `Laravel `
