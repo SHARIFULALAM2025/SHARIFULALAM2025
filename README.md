@@ -1,14 +1,12 @@
-# HELLO! I am SHARIFUL ALAM 
-
 ## About Me 🚀
-I am a Computer Science & Engineering graduate with a strong passion for full-stack web development. I am eager to leverage my problem-solving skills and hands-on project experience to build scalable, user-centric applications and contribute meaningfully to a dynamic and innovative development team.
+Hi! I am SHARIFUL ALAM . I am a Computer Science & Engineering graduate with a strong passion for full-stack web development. I am eager to leverage my problem-solving skills and hands-on project experience to build scalable, user-centric applications and contribute meaningfully to a dynamic and innovative development team.
 - [x] Currently learning: `Laravel `
 - [x] Working on: `https://www.programming-hero.com`
 - [x] Languages: `I can speak fluent   Bangli and English`
 - [x] Email:`sharifullinkdin2025@gmail.com`
 - [x] Contact: `+880 1829-197321`
 - [x] Ask me about anything related to Web Development!
-## 🧠 My Skills
+## 🧠 Technical Skills
 
 
 | Skill  | Front-End Development | Skill | Backend Development |Tool|
