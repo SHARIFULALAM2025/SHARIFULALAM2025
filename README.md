@@ -1,6 +1,8 @@
 # HELLO! I am SHARIFUL ALAM 👋
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nextjs,tailwind,ts&theme=dark&perline=4" />
+</p>
 
 ![Image](https://github.com/SHARIFULALAM2025/SHARIFULALAM2025/blob/f67f7e8b7aab852b661a6ca4db7b41993df145b2/SHARIFUL%20ALAM%20(1).png)
 
