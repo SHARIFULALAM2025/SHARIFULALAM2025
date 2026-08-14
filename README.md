@@ -1,10 +1,76 @@
 # HELLO! I am SHARIFUL ALAM 👋
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nextjs,tailwind,ts&theme=dark&perline=4" />
-</p>
+<svg width="900" height="420" viewBox="0 0 900 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="420" rx="24" fill="url(#bg)"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1A3A"/>
+      <stop offset="1" stop-color="#132B5C"/>
+    </linearGradient>
+  </defs>
 
-![Image](https://github.com/SHARIFULALAM2025/SHARIFULALAM2025/blob/f67f7e8b7aab852b661a6ca4db7b41993df145b2/SHARIFUL%20ALAM%20(1).png)
+  <!-- Decorative dots (top left) -->
+  <circle cx="48" cy="42" r="6" fill="white" fill-opacity="0.9"/>
+  <circle cx="72" cy="42" r="6" fill="white" fill-opacity="0.6"/>
+  <circle cx="96" cy="42" r="6" fill="white" fill-opacity="0.35"/>
+
+  <!-- Decorative squares (bottom left) -->
+  <rect x="36" y="340" width="14" height="14" rx="2" stroke="white" stroke-opacity="0.25" fill="none"/>
+  <rect x="58" y="355" width="18" height="18" rx="3" stroke="white" stroke-opacity="0.35" fill="none"/>
+  <rect x="40" y="375" width="12" height="12" rx="2" stroke="white" stroke-opacity="0.2" fill="none"/>
+  <rect x="70" y="380" width="10" height="10" rx="1.5" stroke="white" stroke-opacity="0.3" fill="none"/>
+
+  <!-- Title -->
+  <text x="450" y="58" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="4">TOP SKILLED</text>
+
+  <!-- ========== ICON GRID ========== -->
+
+  <!-- Row 1 -->
+  <!-- HTML -->
+  <rect x="80" y="95" width="110" height="110" rx="18" fill="#000000"/>
+  <text x="135" y="155" text-anchor="middle" fill="white" font-family="Arial Black, Arial, sans-serif" font-size="28" font-weight="900">HTML</text>
+  <text x="135" y="178" text-anchor="middle" fill="white" font-family="Arial" font-size="13" opacity="0.8">5</text>
+
+  <!-- CSS -->
+  <rect x="220" y="95" width="110" height="110" rx="18" fill="#FFFFFF"/>
+  <text x="275" y="155" text-anchor="middle" fill="#264DE4" font-family="Arial Black, Arial, sans-serif" font-size="28" font-weight="900">CSS</text>
+  <text x="275" y="178" text-anchor="middle" fill="#264DE4" font-family="Arial" font-size="13">3</text>
+
+  <!-- JavaScript -->
+  <rect x="360" y="95" width="110" height="110" rx="18" fill="#F7DF1E"/>
+  <text x="415" y="162" text-anchor="middle" fill="#000000" font-family="Arial Black, Arial, sans-serif" font-size="36" font-weight="900">JS</text>
+
+  <!-- Row 2 -->
+  <!-- React -->
+  <rect x="80" y="225" width="110" height="110" rx="18" fill="#20232A"/>
+  <circle cx="135" cy="265" r="22" fill="none" stroke="#61DAFB" stroke-width="4"/>
+  <circle cx="135" cy="265" r="6" fill="#61DAFB"/>
+  <ellipse cx="135" cy="265" rx="32" ry="12" fill="none" stroke="#61DAFB" stroke-width="3" transform="rotate(60 135 265)"/>
+  <ellipse cx="135" cy="265" rx="32" ry="12" fill="none" stroke="#61DAFB" stroke-width="3" transform="rotate(-60 135 265)"/>
+  <text x="135" y="315" text-anchor="middle" fill="#61DAFB" font-family="Arial" font-size="13" font-weight="600">React JS</text>
+
+  <!-- MongoDB (Leaf) -->
+  <rect x="220" y="225" width="110" height="110" rx="18" fill="#001E2B"/>
+  <path d="M275 250 C265 270 255 295 275 320 C295 295 285 270 275 250 Z" fill="#00ED64"/>
+  <path d="M275 255 C270 275 268 295 275 315" stroke="#001E2B" stroke-width="3" fill="none"/>
+
+  <!-- Next.js -->
+  <rect x="360" y="225" width="110" height="110" rx="18" fill="#000000"/>
+  <polygon points="415,248 395,295 435,295" fill="none" stroke="#00DC82" stroke-width="3"/>
+  <text x="415" y="315" text-anchor="middle" fill="white" font-family="Arial" font-size="14" font-weight="600">NEXT.js</text>
+
+  <!-- Row 3 -->
+  <!-- Tailwind -->
+  <rect x="150" y="355" width="110" height="50" rx="14" fill="#0F172A"/>
+  <path d="M170 375 C180 365 190 365 200 375 C210 385 220 385 230 375" stroke="#38BDF8" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M170 388 C180 378 190 378 200 388 C210 398 220 398 230 388" stroke="#38BDF8" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+  <!-- TypeScript -->
+  <rect x="290" y="355" width="110" height="50" rx="14" fill="#3178C6"/>
+  <text x="345" y="388" text-anchor="middle" fill="white" font-family="Arial Black, Arial, sans-serif" font-size="26" font-weight="900">TS</text>
+
+</svg>
 
 ## About Me 🚀
 I am a Computer Science & Engineering graduate with a strong passion for full-stack web development. I am eager to leverage my problem-solving skills and hands-on project experience to build scalable, user-centric applications and contribute meaningfully to a dynamic and innovative development team.
