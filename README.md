@@ -1,12 +1,15 @@
 ## About Me 🚀
 Hi! I am SHARIFUL ALAM . I am a Computer Science & Engineering graduate with a strong passion for full-stack web development. I am eager to leverage my problem-solving skills and hands-on project experience to build scalable, user-centric applications and contribute meaningfully to a dynamic and innovative development team.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://sharifflio.vercel.app) [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://www.linkedin.com/in/sharifulalam-dev) [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://drive.google.com/file/d/1YR1Jl36y7YPgFxkZifibWVu30fcgA8Rm/view?usp=sharing)
 - [x] Languages: `I can speak fluent   Bangli and English`
 - [x] Email:`sharifullinkdin2025@gmail.com`
 - [x] Currently learning: `Laravel `
 - [x] Contact: `+880 1829-197321`
 - [x] Ask me about anything related to Web Development!
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://sharifflio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharifulalam-dev)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YR1Jl36y7YPgFxkZifibWVu30fcgA8Rm/view?usp=sharing)
+
 ## 🧠 Technical Skills
 
 
