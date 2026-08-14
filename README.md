@@ -31,8 +31,9 @@ Hi! I am Shariful Alam.I am a Computer Science & Engineering graduate with a str
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SHARIFULALAM2025&theme=radical" alt="GitHub Streak" width="97%" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFULALAM2025&layout=donut&theme=dark)](https://github.com/SHARIFULALAM2025)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SHARIFULALAM2025&layout=donut&theme=dark&langs_count=8" alt="Top Languages" />
+</p>
 
 ## 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHARIFULALAM2025&theme=react-dark)
