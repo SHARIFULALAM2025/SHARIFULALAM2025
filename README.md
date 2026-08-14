@@ -11,7 +11,7 @@ I am a Computer Science & Engineering graduate with a strong passion for full-st
 ## 🧠 My Skills
 
 
-| Front-End Development |
+| Skill  | Front-End Development |
 |---|---|
 | HTML5 |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | CSS3 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
